@@ -142,6 +142,7 @@ There are two general approaches to investing: active and passive. Active invest
 **<a id="calendars"></a>CALENDARS:**
 - <a id="earnings-calendars"></a>Earnings Calendars:
 	- [Yahoo! Finance](https://finance.yahoo.com/calendar/earnings/)
+        - [Nasdaq](https://www.nasdaq.com/market-activity/earnings)
 	- [Business Insider](https://markets.businessinsider.com/earnings-calendar)
 	- [Zacks](https://www.zacks.com/earnings/earnings-calendar)
 	- **[Earnings Whispers](https://www.earningswhispers.com/)**
